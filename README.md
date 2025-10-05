@@ -25,4 +25,4 @@ This project showcases a clean layout with a **dark theme** background featuring
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/photography-portfolio-menu.git
+   git clone https://github.com/Digvej/photography-portfolio-menu.git
